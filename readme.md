@@ -1,0 +1,1 @@
+ImageSharp image processing benchmarks using BenchmarkDotNet
